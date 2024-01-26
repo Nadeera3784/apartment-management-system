@@ -1,0 +1,37 @@
+D:\Apartment Management System\ams\ams\bin\Debug\ams.exe.config
+D:\Apartment Management System\ams\ams\bin\Debug\ams.exe
+D:\Apartment Management System\ams\ams\bin\Debug\ams.pdb
+D:\Apartment Management System\ams\ams\obj\Debug\ams.csprojAssemblyReference.cache
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Login.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Properties.Resources.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.csproj.GenerateResource.cache
+D:\Apartment Management System\ams\ams\obj\Debug\ams.csproj.CoreCompileInputs.cache
+D:\Apartment Management System\ams\ams\obj\Debug\ams.exe
+D:\Apartment Management System\ams\ams\obj\Debug\ams.pdb
+D:\Apartment Management System\ams\ams\obj\Debug\ams.dashboard.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Admin.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.recidntial.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.owners.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Payment.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Tenant.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.apartment.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.building.resources
+D:\Apartment Management System\ams\ams\obj\Debug\ams.Form1.resources
+I:\ams\ams\bin\Debug\ams.exe.config
+I:\ams\ams\bin\Debug\ams.exe
+I:\ams\ams\bin\Debug\ams.pdb
+I:\ams\ams\obj\Debug\ams.csprojAssemblyReference.cache
+I:\ams\ams\obj\Debug\ams.Admin.resources
+I:\ams\ams\obj\Debug\ams.floor.resources
+I:\ams\ams\obj\Debug\ams.dashboard.resources
+I:\ams\ams\obj\Debug\ams.Login.resources
+I:\ams\ams\obj\Debug\ams.maintenance.resources
+I:\ams\ams\obj\Debug\ams.owners.resources
+I:\ams\ams\obj\Debug\ams.Payment.resources
+I:\ams\ams\obj\Debug\ams.Properties.Resources.resources
+I:\ams\ams\obj\Debug\ams.Tenant.resources
+I:\ams\ams\obj\Debug\ams.csproj.GenerateResource.cache
+I:\ams\ams\obj\Debug\ams.csproj.CoreCompileInputs.cache
+I:\ams\ams\obj\Debug\ams.exe
+I:\ams\ams\obj\Debug\ams.pdb
+I:\ams\ams\obj\Debug\ams.residentail.resources
